@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pratham&#039;s Portfolio</title>
+	<atom:link href="httpprathamtechops.github.io/mywebsite//feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 26 Jul 2023 11:32:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>httpprathamtechops.github.io/mywebsite//wp-content/uploads/2023/07/IMG_20221225_174305_977.jpg</url>
+	<title>Pratham&#039;s Portfolio</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>About me</title>
+		<link>httpprathamtechops.github.io/mywebsite//about-me/</link>
+					<comments>httpprathamtechops.github.io/mywebsite//about-me/#respond</comments>
+		
+		<dc:creator><![CDATA[pratham]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 11:30:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpprathamtechops.github.io/mywebsite//?p=17</guid>
+
+					<description><![CDATA[<p>Hey there! I&#8217;m Pratham Poddar, a passionate web developer and self-taught programmer with a love for bringing ideas to life on the screen. The thrill of seeing my creations come to life in the digital world is what drives me every day. In the realm of web development, I enjoy immersing myself in the complexities of coding and designing, where each line of code brings me closer to crafting a seamless user experience. Whether it&#8217;s building interactive websites or developing web applications, I find joy in the art of creating digital wonders. On the other hand, data science is where</p>
+<p>The post <a rel="nofollow" href="httpprathamtechops.github.io/mywebsite//about-me/">About me</a> appeared first on <a rel="nofollow" href="httpprathamtechops.github.io/mywebsite/">Pratham&#039;s Portfolio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="17" class="elementor elementor-17">
+							<div class="elementor-element elementor-element-f23e4e8 e-con-full e-flex e-con" data-id="f23e4e8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-a78cd36 e-con-full e-flex e-con" data-id="a78cd36" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-fb8880b elementor-widget elementor-widget-text-editor" data-id="fb8880b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Hey there! I&#8217;m Pratham Poddar, a passionate web developer and self-taught programmer with a love for bringing ideas to life on the screen. The thrill of seeing my creations come to life in the digital world is what drives me every day.</p><p>In the realm of web development, I enjoy immersing myself in the complexities of coding and designing, where each line of code brings me closer to crafting a seamless user experience. Whether it&#8217;s building interactive websites or developing web applications, I find joy in the art of creating digital wonders.</p><p>On the other hand, data science is where I unleash my curiosity and indulge in the wonders of data. I relish the challenge of exploring datasets, uncovering patterns, and extracting meaningful insights. The power of data to reveal hidden stories excites me, and I&#8217;m continually honing my skills to master this data-driven realm.</p><p>Beyond my love for technology, I have a soft spot for animals. When I&#8217;m not coding or delving into data, you can often find me spending time with our furry friends. There&#8217;s something magical about their companionship and how they teach us valuable life lessons.</p><p>My journey in the world of programming began as a self-taught enthusiast, and it&#8217;s this hunger for learning that keeps me going. I believe that my unique blend of creativity, technical expertise, and unwavering determination sets me apart in the field of web development and data science.</p><p>Through this portfolio, I invite you to join me in exploring the fusion of art and logic, where I strive to make an impact through my work. Let&#8217;s connect and embark on this exciting journey together.</p><p>Looking forward to sharing my projects and experiences with you!</p><p>Best regards,</p><p>Pratham Poddar</p>						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ae254a5 e-flex e-con-boxed e-con" data-id="ae254a5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5f0a18d elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="5f0a18d" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
+.elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="httpprathamtechops.github.io/mywebsite//wp-content/uploads/2023/07/IMG-20221217-WA0046.jpg" alt="IMG-20221217-WA0046" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="httpprathamtechops.github.io/mywebsite//wp-content/uploads/2023/07/IMG_20230530_072223_106.jpg" alt="IMG_20230530_072223_106" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="httpprathamtechops.github.io/mywebsite//wp-content/uploads/2023/07/IMG_20230530_090316_120.jpg" alt="IMG_20230530_090316_120" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="httpprathamtechops.github.io/mywebsite//wp-content/uploads/2023/07/IMG_20230711_165634_007.jpg" alt="IMG_20230711_165634_007" /></figure></div>			</div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>					</div>
+				
+									<div class="swiper-pagination"></div>
+									</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<p>The post <a rel="nofollow" href="httpprathamtechops.github.io/mywebsite//about-me/">About me</a> appeared first on <a rel="nofollow" href="httpprathamtechops.github.io/mywebsite/">Pratham&#039;s Portfolio</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpprathamtechops.github.io/mywebsite//about-me/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>httpprathamtechops.github.io/mywebsite//hello-world/</link>
+					<comments>httpprathamtechops.github.io/mywebsite//hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[pratham]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 01:43:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpprathamtechops.github.io/mywebsite//?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="httpprathamtechops.github.io/mywebsite//hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="httpprathamtechops.github.io/mywebsite/">Pratham&#039;s Portfolio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="httpprathamtechops.github.io/mywebsite//hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="httpprathamtechops.github.io/mywebsite/">Pratham&#039;s Portfolio</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpprathamtechops.github.io/mywebsite//hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
